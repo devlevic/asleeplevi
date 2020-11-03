@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Nordestino.
+
+[![](https://img.shields.io/badge/-Linkedin-green?style=flat-square&logo=linkedin&color=5d7afc)](https://www.linkedin.com/in/julio-levi-6b56a6174/)
+[![](https://img.shields.io/badge/-jlevicarvalho@gmail.com-green?style=flat-square&logo=gmail&color=5d7afc)](mailto:jlevicarvalho@gmailcom/)
+
+
+Sou desenvolvedor, apaixonado por Javascript e desenvolvimento Web. Sempre em busca de melhorar e compartilhar conhecimento! 
+
+“Do or do not. There is no try.”
 <!--
 **asleeplevi/asleeplevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
