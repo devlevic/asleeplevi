@@ -1,25 +1,23 @@
-### Hi there 👋
+<h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Levi</h1>
 
-Nordestino.
+- 👨‍🚀 Javascript based developer
+- 🌍 I'm currently working at [Blue Marble](http://www.bluemarble.com.br)
+- 🧑‍💻 I'm currently learning **Vim** ([see here my config](https://github.com/asleeplevi/vim-config)) 
 
-[![](https://img.shields.io/badge/-Linkedin-green?style=flat-square&logo=linkedin&color=5d7afc)](https://www.linkedin.com/in/julio-levi-6b56a6174/)
-[![](https://img.shields.io/badge/-jlevicarvalho@gmail.com-green?style=flat-square&logo=gmail&color=5d7afc)](mailto:jlevicarvalho@gmailcom/)
+### 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![mySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Next](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;![Next](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;![Material UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=materialui)&nbsp;
+####  👇 This is my  favorite combination
 
-
-Sou desenvolvedor, apaixonado por Javascript e desenvolvimento Web. Sempre em busca de melhorar e compartilhar conhecimento! 
-
-“Do or do not. There is no try.”
-<!--
-**asleeplevi/asleeplevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Next](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js) +![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)  = :heart:
+### 🤳 You find me here
+<p align="left" style="background:yellow;" >
+<a href="https://www.linkedin.com/in/julio-levi-6b56a6174/" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-Julio Levi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/devlevi_" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-devlevi-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="mailto:jlevicarvalho@gmail.com" target="_blank">
+<img align="center" src="https://img.shields.io/badge/-jlevicarvalho@gmail.com-05122A?style=flat&logo=gmail" alt="instagram"/>
+</a>
+</p>
