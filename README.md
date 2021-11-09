@@ -11,7 +11,7 @@
 ![Next](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js) +![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)  = :heart:
 ### 🤳 You find me here
 <p align="left" style="background:yellow;" >
-<a href="https://www.linkedin.com/in/julio-levi-6b56a6174/" target="_blank">
+<a href="https://www.linkedin.com/in/levi-me/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/-Julio Levi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/devlevi_" target="_blank">
