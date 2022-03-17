@@ -1,8 +1,8 @@
 <h1 align="left">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Levi</h1>
 
-- 👨‍🚀 Javascript based developer
+- 👨‍🚀 Node.js based developer
 - 🌍 I'm currently working at [Blue Marble](http://www.bluemarble.com.br)
-- 🧑‍💻 I'm currently learning **Vim** ([see here my config](https://github.com/asleeplevi/neovim)) 
+- 🧑‍💻 I'm currently learning **RUST** 
 
 ### 🚀 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;![mySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![Next](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;![Next](https://img.shields.io/badge/-Nextjs-05122A?style=flat&logo=next.js)&nbsp;![Material UI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=materialui)&nbsp;
